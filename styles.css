@@ -71,3 +71,17 @@
     margin: auto;
     margin-bottom: 10px;
 }
+
+footer {
+    font-family: Arial;
+    min-height: 50px;
+    background: grey;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    color: white;
+    margin: 0px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
